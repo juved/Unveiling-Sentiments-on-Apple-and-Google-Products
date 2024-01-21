@@ -2,43 +2,47 @@
 
 
 
-Data Preparation
-
-
-Cleaning
+## Business Understanding
 
 
 
-
-Analysis & Recommendations
-Recommendation 1
+## Data
 
 
-Alt text
 
-Recommendation 2
-
-
-Alt text
-
-Recommendation 3
+### Preparation
 
 
-Alt text
 
-Conclusions & Next Steps
-Conclusion
+## Modeling & Evaluation
 
-Next Steps
 
-Repo Structure
+## Recommendations 
 
+### Recommendation 1
+
+### Recommendation 2
+
+
+### Recommendation 3
+
+
+## Conclusion
+
+
+
+
+## Next Steps
+
+
+
+## Repo Structure 
+```
 ├── Data
 ├── Images
 ├── Notebooks
-│   ├── 
-│   ├── 
 ├── .gitignore
 ├── Final.ipynb
 ├── LICENSE
 ├── README.md
+```
