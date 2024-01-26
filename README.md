@@ -45,9 +45,8 @@ Based on the the most important features in our model and their association to p
 
 ## Repo Structure 
 ```
-├── Data
-├── Images
 ├── Notebooks
+├── data
 ├── .gitignore
 ├── Final.ipynb
 ├── LICENSE
