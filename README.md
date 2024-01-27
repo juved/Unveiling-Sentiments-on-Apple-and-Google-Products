@@ -48,6 +48,7 @@ Based on the the most important features in our model and their association to p
 
 ## Repo Structure 
 ```
+├── Images
 ├── Notebooks
 ├── data
 ├── .gitignore
